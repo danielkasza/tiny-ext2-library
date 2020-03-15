@@ -5,6 +5,8 @@ Functions are provided for reading files.
 Listing directories is not yet supported, but that functionality could be added easily.
 Internally, the library is already able to look at directories.
 
+Only the original ("revision 0") Ext2 filesystem is supported.
+
 ```
 Copyright (c) 2020, Daniel Kasza
 All rights reserved.
